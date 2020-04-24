@@ -3,4 +3,4 @@
 
 منبع اصلی سورس
 
-https://github.com/persian-calendar/DroidPersianCalend
+https://github.com/persian-calendar/DroidPersianCalendar
